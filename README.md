@@ -47,7 +47,7 @@ body {
 
 <div style="padding-left:16px">
     <h1 id="Center">Minecraft botting. Evolved</h1>
-    <h2 id="Center">To learn more about project Mineai please read <a href="learnmore.md">this</a></h2>
+    <h2 id="Center">To learn more about project Mineai or how to get involved, please read <a href="learnmore.md">this</a></h2>
 </div>
 
 </body>
