@@ -1,5 +1,7 @@
 <html>
 <head>
+    <title>Project MineAI</title>
+    <meta name="Description" content="Minecraft botting, Evolved">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     #Center {
